@@ -7,7 +7,7 @@
 本项目分为2部分，适用于任何支持 Adblock+油猴 规则的浏览器
 
 ### 安装 AdBlock 规则
-<a href="abp:subscribe?location=https%3A%2F%2Fgithub.com%2FFunctionClub%2FAffAlarm%2Fraw%2Fmaster%2FRule.txt&amp;title=AffAlarm">Click Me Install AdBlock Rules</a>
+[Click Me Install AdBlock Rules](https://github.com/FunctionClub/AffAlarm/raw/master/Rule.txt)
 
 ### 安装 TamperMonkey 脚本
 
