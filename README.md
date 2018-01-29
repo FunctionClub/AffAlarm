@@ -20,57 +20,43 @@
 ### 屏蔽
 
 #### 测评网站：
-91yun ———— 用户反馈智障言论
-
-主机测评 ———— 坑害小白，只关心aff收益
+|网站名     |原因                 |
+|----------|----------------------|
+|91yun     |用户反馈智障言论       |
+|主机测评   |坑害小白，只关心aff收益|
 
 #### 论坛：
-
-Hostloc签名 ———— 签名全是广告
+|网站名     |原因                 |
+|----------|---------------------|
+|Hostloc签名| 签名全是广告         |
 
 #### 跑路服务商：
-
-Dedicenter
+|服务商名     |原因                 |
+|------------|---------------------|
+|Dedicenter  |我也不知道，反正跑路了 |
 
 #### 质量不佳的服务商：
-
-UniWeb ———— https://zhujiwiki.com/10366.html
-
-Hybrid ———— https://zhujiwiki.com/10366.html
-
-ServerHand ———— https://zhujiwiki.com/10366.html
-
-My Server Planet ———— https://zhujiwiki.com/10366.html
-
-LetBOX ———— https://zhujiwiki.com/10366.html
-
-Treudler ———— https://zhujiwiki.com/10366.html
-
-Golden Hosts ———— https://zhujiwiki.com/10366.html
-
-AlphaRacks ———— https://zhujiwiki.com/10366.html
-
-ethernetservers ———— https://zhujiwiki.com/10366.html
-
-KrakenServers ———— https://zhujiwiki.com/10366.html
-
-noez.de ———— https://zhujiwiki.com/10366.html
-
-tragicservers ———— https://zhujiwiki.com/10366.html
-
-BudgetNode ———— https://zhujiwiki.com/10366.html
-
-Hostodo ———— https://zhujiwiki.com/10366.html
-
-Hosticated ———— https://zhujiwiki.com/10366.html
-
-X3host ———— https://zhujiwiki.com/10366.html
-
-Twention ———— https://zhujiwiki.com/10366.html
-
-bandwagonhost ———— 搬瓦工专坑小白
-
-WootHosting ———— 封禁理由同AlphaRack
+|服务商名              |原因                                         |
+|---------------------|---------------------------------------------|
+|UniWeb               | https://zhujiwiki.com/10366.html            |
+|Hybrid               | https://zhujiwiki.com/10366.html            |
+|ServerHand           | https://zhujiwiki.com/10366.html            |
+|My Server Planet     | https://zhujiwiki.com/10366.html            |
+|LetBOX               | https://zhujiwiki.com/10366.html            |
+|Treudler             | https://zhujiwiki.com/10366.html            |
+|Golden Hosts         | https://zhujiwiki.com/10366.html            |
+|AlphaRacks           | https://zhujiwiki.com/10366.html            |
+|ethernetservers      | https://zhujiwiki.com/10366.html            |
+|KrakenServers        | https://zhujiwiki.com/10366.html            |
+|noez.de              | https://zhujiwiki.com/10366.html            |
+|tragicservers        | https://zhujiwiki.com/10366.html            |
+|BudgetNode           | https://zhujiwiki.com/10366.html            |
+|Hostodo              | https://zhujiwiki.com/10366.html            |
+|Hosticated           | https://zhujiwiki.com/10366.html            |
+|X3host               | https://zhujiwiki.com/10366.html            |
+|Twention             | https://zhujiwiki.com/10366.html            |
+|bandwagonhost        | 搬瓦工专坑小白                               |
+|WootHosting          | 封禁理由同AlphaRack                          |
 
 
 
