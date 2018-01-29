@@ -2,6 +2,7 @@
 ! Home: https://github.com/FunctionClub/AffAlarm/
 ! Author: Kirito
 ! Title: AffAlarm
+! Expires: 12 hours
 
 ! Block 91SB cloud
 *91yun.co*
