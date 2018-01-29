@@ -22,4 +22,5 @@
     for (var t=0,tmax=table.length; t<tmax; t++){
         table[t].innerHTML= table[t].innerHTML.replace(/aff=/g,"useless=");
     }
+    document.cookie = "WHMCSAffiliateID=null";
 })();
