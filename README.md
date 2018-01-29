@@ -24,10 +24,53 @@
 
 主机测评 ———— 坑害小白，只关心aff收益
 
+#### 论坛：
+
+Hostloc签名 ———— 签名全是广告
+
 #### 跑路服务商：
+
 Dedicenter
+
 #### 质量不佳的服务商：
 
+UniWeb ———— https://zhujiwiki.com/10366.html
+
+Hybrid ———— https://zhujiwiki.com/10366.html
+
+ServerHand ———— https://zhujiwiki.com/10366.html
+
+My Server Planet ———— https://zhujiwiki.com/10366.html
+
+LetBOX ———— https://zhujiwiki.com/10366.html
+
+Treudler ———— https://zhujiwiki.com/10366.html
+
+Golden Hosts ———— https://zhujiwiki.com/10366.html
+
+AlphaRacks ———— https://zhujiwiki.com/10366.html
+
+ethernetservers ———— https://zhujiwiki.com/10366.html
+
+KrakenServers ———— https://zhujiwiki.com/10366.html
+
+noez.de ———— https://zhujiwiki.com/10366.html
+
+tragicservers ———— https://zhujiwiki.com/10366.html
+
+BudgetNode ———— https://zhujiwiki.com/10366.html
+
+Hostodo ———— https://zhujiwiki.com/10366.html
+
+Hosticated ———— https://zhujiwiki.com/10366.html
+
+X3host ———— https://zhujiwiki.com/10366.html
+
+Twention ———— https://zhujiwiki.com/10366.html
+
+bandwagonhost ———— 搬瓦工专坑小白
+
+WootHosting ———— 封禁理由同AlphaRack
 
 
 
