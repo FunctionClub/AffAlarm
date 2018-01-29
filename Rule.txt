@@ -14,9 +14,67 @@
 https://t.me/zhujiceping
 https://zhuanlan.zhihu.com/zhujiceping/*
 
-! Block Dedicenter
+! Block Dedicenter (跑路)
 *dedicenter.com*
 *cloudflexy.com*
 
-! Block Hostloc Sign
+! Block Hostloc Sign （签名全是广告）
 www.hostloc.com##.sign
+
+! Block UniWeb （https://zhujiwiki.com/10366.html）
+*uniwebhosting.com*
+
+! Block Hybrid （https://zhujiwiki.com/10366.html）
+*hybridvm.net*
+
+! Block ServerHand （https://zhujiwiki.com/10366.html）
+*serverhand.com*
+
+! Block My Server Planet （https://zhujiwiki.com/10366.html）
+*myserverplanet.com*
+
+! Block LetBOX （https://zhujiwiki.com/10366.html）
+*letbox.com*
+
+! Block Treudler （https://zhujiwiki.com/10366.html）
+*treudler.net*
+
+! Block Golden Hosts （https://zhujiwiki.com/10366.html）
+*golden-hosts.com*
+
+! Block AlphaRacks （https://zhujiwiki.com/10366.html）
+*alpharacks.com*
+
+! Block ethernetservers （https://zhujiwiki.com/10366.html）
+*ethernetservers.com*
+
+! Block KrakenServers （https://zhujiwiki.com/10366.html）
+*krakenservers.com*
+
+! Block noez.de （https://zhujiwiki.com/10366.html）
+*noez.de*
+
+! Block tragicservers （https://zhujiwiki.com/10366.html）
+*tragicservers.com*
+
+! Block BudgetNode （https://zhujiwiki.com/10366.html）
+*budgetnode.com*
+
+! Block Hostodo （https://zhujiwiki.com/10366.html）
+*hostodo.com*
+
+! Block Hosticated （https://zhujiwiki.com/10366.html）
+*hosticated.com*
+
+! Block X3host （https://zhujiwiki.com/10366.html）
+*x3host.com*
+
+! Block Twention （https://zhujiwiki.com/10366.html）
+*twention.com*
+
+! Block bandwagonhost (搬瓦工专坑小白)
+*bandwagonhost.com*
+*bwg1.net*
+
+! Block WootHosting (封禁理由同AlphaRack)
+*woothosting.com*
