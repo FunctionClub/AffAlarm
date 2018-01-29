@@ -7,7 +7,7 @@
 // @match         http://*/*
 // @match         https://*/*
 // @exclude       http://github.com/*
-// @exclude       http://github.com/*
+// @exclude       https://github.com/*
 // @exclude       http://liyuans.com/*
 // @exclude       https://liyuans.com/*
 // @exclude       http://zhujiwiki.com/*
