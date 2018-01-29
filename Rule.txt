@@ -16,3 +16,6 @@ https://zhuanlan.zhihu.com/zhujiceping/*
 ! Block Dedicenter
 *dedicenter.com*
 *cloudflexy.com*
+
+! Block Hostloc Sign
+www.hostloc.com##.sign
