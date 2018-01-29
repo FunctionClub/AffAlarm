@@ -1,0 +1,17 @@
+! You should not use this block rule unless you dislike affman in china.
+! Home: https://github.com/FunctionClub/AffAlarm/
+! Author: Kirito
+! Title: AffAlarm
+
+! Block 91SB cloud
+*91yun.co*
+*91yun.org*
+|https://github.com/91yun/*
+
+! Block 主机测Ping
+*zhujiceping.com*
+https://t.me/zhujiceping
+https://zhuanlan.zhihu.com/zhujiceping/*
+
+! Block Aff Link
+*aff*
