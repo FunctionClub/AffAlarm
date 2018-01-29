@@ -12,5 +12,8 @@
 // @exclude       https://zhujiwiki.com/*
 // ==/UserScript==
 (function() {
-document.body.innerHTML= document.body.innerHTML.replace(/aff=/g,"useless=");
+    var links = document.getElementsByTagName("a"); //array
+    for (var i=0,imax=links.length; i<imax; i++){
+        links[i].href = links[i].href.replace(/aff=/g,"useless=");
+    }
 })();
