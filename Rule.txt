@@ -16,3 +16,4 @@ https://zhuanlan.zhihu.com/zhujiceping/*
 ! Block Aff Link
 ^aff^
 ^aff.php^
+^aff=*^
